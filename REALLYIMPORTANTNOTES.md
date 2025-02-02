@@ -1,0 +1,3 @@
+Linear-time Perception: For the system to effectively understand its past, preview the future, and act in the present, a linear-time perception is essential. This model mimics the human experience of time as linear, even though, in reality, time may not strictly be linear. The system should simulate this "correct order" to achieve a coherent perception of time, just as human brains do.
+
+Qualia: As an emergent property, qualia should not require a dedicated processing box. Instead, by implementing the concepts outlined in the paper, qualia will arise naturally within the system. This allows the system to possess the emergent characteristics of conscious experience without explicit, pre-programmed qualia structures.
