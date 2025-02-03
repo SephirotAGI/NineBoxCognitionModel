@@ -37,7 +37,7 @@ This project is dual-licensed under the Creative Commons Attribution 4.0 Interna
 
 **Notice of Document Update**
 
-The initial versions of the White Paper (NineBox.PDF) and CC BY 4.0 License were removed and replaced with updated versions. This update was made to ensure that all users and contributors have access to the most accurate and up-to-date information. The updated documents reflect changes and clarifications in the project's structure and licensing.
+The initial versions of the White Paper (NineBox.PDF) and CC BY 4.0 License were removed and replaced with updated versions. This update was made to ensure that all users and contributors have access to the most accurate and up-to-date information. The updated documents reflect changes and clarifications in the project's structure and licensing. I also updated the NineBox.pdf's name to NineBox_Version_1.1.pdf, with no changes in its content, but just to show that it can be updated.
 
 **Reason for Removal**
 
