@@ -37,8 +37,9 @@ This project is dual-licensed under the Creative Commons Attribution 4.0 Interna
 
 **Notice of Document Update**
 
-**Before made known, the Nine Box Cognition Model project had its initial versions of the PDF and license removed and replaced with improved versions. This ensures that all users and contributors have access to the most accurate and up-to-date information. The white paper will be periodically updated to reflect ongoing developments, with proper, UTC based, timestamps**
+**Before made known, the Nine Box Cognition Model project had its initial versions of the PDF and CC BY 4.0 license removed and replaced with improved versions. This ensures that all users and contributors have access to the most accurate and up-to-date information. The white paper may be periodically updated to reflect ongoing developments, with proper, UTC based, timestamps**
+This happened because I didn't knew how to properly update files.
 
 I also updated this README file.
 
-**UTC 02:42**
+**UTC 02:50**
