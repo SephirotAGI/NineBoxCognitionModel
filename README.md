@@ -45,8 +45,10 @@ The previous versions were removed because I did not know how to properly update
 
 **White Paper Updates**
 
-The white paper may be periodically updated to reflect ongoing developments, and all updates will be timestamped according to UTC for clarity.
+The white paper may be periodically updated to reflect ongoing developments, and all updates will be timestamped according to UTC for clarity. 
+
+Added timestamp based on my location to the new PDF file (the old ones are still there)
 
 **I also updated this README file. Respective timestamp below.**
 
-**February 3, 2025, UTC 03:33**
+Last README update: February 6, 2025 at 3:50 PM -03 (UTC)
