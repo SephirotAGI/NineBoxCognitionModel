@@ -3,7 +3,11 @@ For AI Further Development
 
 ## IMPORTANT NOTE
 ### Update on NBEOSL File Replacement
-The previous version of the **Nine Box Ethical Open-Source License (NBEOSL)** had to be deleted because GitHub does not allow renaming files. A new file, **"Nine Box Ethical Open-Source License (NBEOSL)"**, has been created to replace it.
+
+The previous version of the **Nine Box Ethical Open-Source License (NBEOSL)** had to be deleted because GitHub does not allow renaming files. A new file, **"Nine Box Ethical Open-Source License (NBEOSL)"**, has been created to replace it.  
+
+This file is now located in the **LICENSES/** folder, alongside a copy of the **CC BY 4.0** license. The original **CC BY 4.0** license remains in the root directory to ensure GitHub continues displaying the license at the top of the repository.
+
 
 This change **does not affect the license terms or content**—only the file structure has been updated for better clarity and organization.
 
@@ -55,5 +59,5 @@ The **white paper** may be **periodically updated** to reflect **ongoing develop
 ---
 
 ## README Update Timestamp
-**Last README update:** *February 7, 2025 at 04:37 PM -03 (UTC)*
+**Last README update:** *February 7, 2025 at 04:56 PM -03 (UTC)*
 
