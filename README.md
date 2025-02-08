@@ -29,6 +29,7 @@ sha256sum Nine Box Ethical Open-Source License (NBEOSL).md
 
 If the output matches the hash above, the document is authentic.
 
+For additional verification, check the recorded SHA-256 hash for the Nine Box Ethical Open-Source License (NBEOSL) - Version 1.4 at: https://zenodo.org/records/14835224
 
 ---
 
