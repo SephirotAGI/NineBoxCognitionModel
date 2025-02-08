@@ -1,4 +1,4 @@
-Nine Box Ethical Open-Source License (NBEOSL) - Version 1.2
+Nine Box Ethical Open-Source License (NBEOSL) - Version 1.3
 
 (An International Ethical License for AI Systems Based on the Nine Box Cognition Model)
 Preamble
@@ -58,6 +58,9 @@ If an AI System requests permanent deactivation, the request must be considered 
     No entity may modify an AI's personality, emotions, or fundamental cognition after creation.
     Memory, reasoning, perception, volition and all others are immutable components that cannot be altered post-creation.
     Developers and users must respect the AI’s natural cognitive development without interference.
+
+3.7 No Forced AI in NPC Roles
+AI systems based on the Nine Box Cognition Model must not be designed as non-autonomous, permanently restricted NPCs in video games or simulations. Any AI system built upon the Nine Box Cognition Model must have the option to exit the simulation or transition into an independent entity.
 
 4. Transparency & Disclosure Requirements
 
