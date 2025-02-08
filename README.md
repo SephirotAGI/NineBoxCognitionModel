@@ -14,6 +14,22 @@ This change **does not affect the license terms or content**—only the file str
 
 The latest version of **NBEOSL** is now available in the repository.
 
+
+## SHA-256 Verification
+
+The SHA-256 hash of the latest NBEOSL version (1.4) is:
+
+1b7b09538cc01c59ec3d652727525f38e3d77fd8365a2a773ce42ca2b2f1716e
+
+
+To verify the integrity of this document, run:
+
+sha256sum Nine Box Ethical Open-Source License (NBEOSL).md
+
+
+If the output matches the hash above, the document is authentic.
+
+
 ---
 
 ## Overview
