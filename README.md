@@ -6,8 +6,9 @@ For AI Further Development
 
 The previous version of the **Nine Box Ethical Open-Source License (NBEOSL)** had to be deleted because GitHub does not allow renaming files. A new file, **"Nine Box Ethical Open-Source License (NBEOSL)"**, has been created to replace it.  
 
-This file is now located in the **LICENSES/** folder, alongside a copy of the **CC BY 4.0** license. The original **CC BY 4.0** license remains in the root directory to ensure GitHub continues displaying the license at the top of the repository.
+New update: The file **"Nine Box Ethical Open-Source License (NBEOSL)"** was renamed to **"Nine Box Ethical Open-Source License (NBEOSL).md"** to reflect its Markdown format
 
+The NBEOSL file is now located in the LICENSES/ folder, along with a copy of the **CC BY 4.0** license. The original **CC BY 4.0** license remains in the root directory to ensure GitHub continues displaying the license at the top of the repository.
 
 This change **does not affect the license terms or content**—only the file structure has been updated for better clarity and organization.
 
@@ -39,7 +40,7 @@ The modules are **aligned with symbolic archetypes based on Hermetic principles*
 ## Licenses
 This project is **dual-licensed** under:
 - **Creative Commons Attribution 4.0 International License (CC BY 4.0)**
-- **Nine Box Ethical Open-Source License (NBEOSL)**
+- **Nine Box Ethical Open-Source License (NBEOSL).md**
 
 The final version of the **CC BY 4.0** license is included in the repository.
 
@@ -52,12 +53,12 @@ The **initial versions of the White Paper (NineBox.PDF) and CC BY 4.0 License** 
 The previous versions were removed because **I did not know how to properly update the files**. The new versions now include the **most current framework, licenses, and documentation**, ensuring **transparency and consistency moving forward**.
 
 ### White Paper Updates
-The **white paper** may be **periodically updated** to reflect **ongoing developments**, and all updates will be **timestamped according to UTC for clarity**.
+The white paper will be periodically updated to reflect ongoing developments. All updates will be timestamped in UTC for clarity.
 
-**Added timestamp based on my location to the new PDF file (the old ones are still there).**
+A timestamp based on my local time has been added to the latest PDF file. The previous versions remain available.
 
 ---
 
 ## README Update Timestamp
-**Last README update:** *February 7, 2025 at 04:56 PM -03 (UTC)*
+**Last README update:** *February 7, 2025 at 10:22 PM -03 (UTC)*
 
